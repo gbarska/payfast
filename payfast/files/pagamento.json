@@ -1,0 +1,15 @@
+{
+   "pagamento":{
+        "forma_de_pagamento":"cartao",
+        "valor": 10.98,
+        "moeda":"BRL",
+        "descricao":"criando um pagamento"
+    },
+    "cartao":{
+        "numero":"1234567891012543",
+        "bandeira": "visa",
+        "ano_de_expiracao":"2028",
+        "mes_de_expiracao":"12",
+        "cvv":123
+    }
+}

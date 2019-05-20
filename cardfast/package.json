@@ -1,0 +1,22 @@
+{
+  "name": "payfast",
+  "version": "1.0.0",
+  "description": "um gateway para pagameto via http",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gateway",
+    "pagamento"
+  ],
+  "author": "gbarska",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "consign": "^0.1.6",
+    "express": "^4.17.0",
+    "express-validator": "^5.3.1",
+    "mysql": "^2.17.1"
+  }
+}
